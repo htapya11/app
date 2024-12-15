@@ -1,5 +1,5 @@
 {
-  "name": "ML React App",
+  "name": "app",
   "version": "1.0.0",
   "description": "A machine learning app.",
   "main": "server.js",
